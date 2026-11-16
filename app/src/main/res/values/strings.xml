@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinkSaver</string>
+    <string name="subtitle">Paste a YouTube, Instagram, Facebook or LinkedIn link — or share it to this app.</string>
+    <string name="hint">Video / post link</string>
+    <string name="paste">Paste link</string>
+    <string name="quality">Video quality</string>
+    <string name="q_best">Best</string>
+    <string name="download_video">Download MP4</string>
+    <string name="download_image">Download image</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_engine">Update engine (fix broken downloads)</string>
+    <string name="footer">Saved to Movies/LinkSaver and Pictures/LinkSaver. Only download content you have the right to.</string>
+    <string name="no_link_in_clipboard">No link in clipboard</string>
+    <string name="enter_link">Enter a valid link</string>
+    <string name="preparing">Preparing engine (first launch takes a few seconds)…</string>
+    <string name="ready">Ready</string>
+    <string name="fetching_video">Fetching video…</string>
+    <string name="fetching_image">Fetching image…</string>
+    <string name="saved">Saved:\n%1$s</string>
+    <string name="saved_toast">Saved to your gallery</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="updating">Updating engine…</string>
+</resources>
